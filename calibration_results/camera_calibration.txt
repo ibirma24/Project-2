@@ -1,0 +1,21 @@
+CAMERA CALIBRATION RESULTS - PHASE 1
+==================================================
+
+Calibration Date: 2025-11-10 19:17:14
+Images Used: 34
+RMS Error: 0.3652 pixels
+
+INTRINSIC CAMERA MATRIX (K):
+[  985.0867     0.0000   639.2476]
+[    0.0000   987.5993   351.5196]
+[    0.0000     0.0000     1.0000]
+
+DISTORTION COEFFICIENTS:
+k1 =   0.067756
+k2 =  -0.185197
+p1 =   0.002704
+p2 =   0.000704
+k3 =   0.052147
+
+Focal lengths: fx = 985.09, fy = 987.60
+Principal point: cx = 639.25, cy = 351.52
