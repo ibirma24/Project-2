@@ -1,0 +1,20 @@
+RELATIVE POSE ESTIMATION RESULTS
+========================================
+
+Image 1: captures/chessboard_20251106_150440_073.png
+Image 2: captures/chessboard_20251106_150445_260.png
+
+Rotation Matrix (R):
+[  0.9251  -0.0678  -0.3736]
+[ -0.0706   0.9361  -0.3447]
+[  0.3731   0.3452   0.8612]
+
+Translation Vector (t):
+[  0.2700]
+[  0.1042]
+[ -0.9572]
+
+Rotation in degrees:
+X-axis:   20.7°
+Y-axis:  -22.4°
+Z-axis:   -0.1°

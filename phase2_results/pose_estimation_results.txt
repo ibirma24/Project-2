@@ -1,0 +1,40 @@
+RELATIVE POSE ESTIMATION RESULTS - PHASE 2
+============================================================
+
+Input Images:
+  Image 1: chessboard_20251106_150440_073.png
+  Image 2: chessboard_20251106_150445_260.png
+
+FUNDAMENTAL MATRIX (F):
+[  0.00000022   0.00000397  -0.00284233]
+[  0.00000041  -0.00000190   0.00097989]
+[ -0.00034674  -0.00109982   1.00000000]
+
+ESSENTIAL MATRIX (E):
+[  0.21191099   3.86538937  -1.28660236]
+[  0.39448505  -1.85377249   0.56391149]
+[ -0.06364650   0.76234339  -0.24245770]
+
+ROTATION MATRIX (R):
+[ -0.874315   0.484206   0.033441]
+[  0.401561   0.760344  -0.510516]
+[ -0.272621  -0.432923  -0.859218]
+
+TRANSLATION VECTOR (t):
+[ -0.092812]
+[  0.206992]
+[  0.973930]
+
+ROTATION (Euler angles in degrees):
+  Roll  (X):    40.56°
+  Pitch (Y):   159.99°
+  Yaw   (Z):   -43.20°
+
+TRANSLATION (normalized direction):
+  X:   -0.093
+  Y:    0.207
+  Z:    0.974
+  Magnitude:    1.000
+
+NOTE: Translation scale is not recoverable from two views.
+Only the direction of translation can be determined.
